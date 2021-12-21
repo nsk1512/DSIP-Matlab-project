@@ -4,7 +4,7 @@
 
 ### Our Choice of the Frequency Domain Filter is the Butterworth low and high pass filter!
 
-![workflow](./images/butter.png)
+![workflow](./images/butter.PNG)
 
 The repository consists of 5 files
 1. bhp.m - High pass filter code
@@ -13,4 +13,4 @@ The repository consists of 5 files
 4. FreqFilter.m - main file to be run
 5. invfft.m - Inverse fourier transform code
 
-![output](./images/output.png)
+![output](./images/output.PNG)
